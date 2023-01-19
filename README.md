@@ -1,1 +1,1 @@
-# candlestick_analysis
+# appraising_hammer_2019_2021
