@@ -38,14 +38,15 @@ On the left, we can see the counts of data we have before including the pandemic
 
 ### <b><p align="center">How does the distribution of % change differ at different time periods?</p></b>
 
-<img src="Pictures/1d_change.png" width=400px height=auto align=left padding-left=20px> 
-<img src="Pictures/3d_change.png" width=400px height=auto align=right  padding-right=20px>
+<p align='center'>
+<img src="Pictures/1d_change.png" width=400px height=auto>
+<img src="Pictures/3d_change.png" width=400px height=auto>
+</p>
 
-<br clear="left"/>
-<br clear="right"/>
-
-<img src="Pictures/5d_change.png" width=400px height=auto align=left padding-left=20px> 
-<img src="Pictures/10d_change.png" width=400px height=auto align=right padding-right=20px> 
+<p align='center'>
+<img src="Pictures/5d_change.png" width=400px height=auto> 
+<img src="Pictures/10d_change.png" width=400px height=auto>
+</p>
 
 <br clear="right"/>
 <br clear="left"/>
@@ -53,8 +54,11 @@ On the left, we can see the counts of data we have before including the pandemic
 These charts display the % change over days relative to the hammer candlestick. As more time passes, we can see that the mean remains the same at a near 0 value, however variance increases relative to the initial day, which is expected since there is less certainty of behavior after more time passes. This raises the question: If a hammer is discovered, will it continue to trend as more time passes?
 
 ### <b><p align="center">Does the frequency of hammers change by GICS sector?</p></b>
-<img src="Pictures/hammer_rep.png" width=480px height=auto align=left> 
-<img src="Pictures/ticker_rep.png" width=480px height=auto align=right> 
+
+<p align='center'>
+<img src="Pictures/hammer_rep.png" width=480px height=auto> 
+<img src="Pictures/ticker_rep.png" width=480px height=auto>
+</p>
 
 <br clear="right"/>
 <br clear="left"/>
