@@ -1,4 +1,3 @@
-# appraising_hammer_indicator_behavior_between_2019_2021
 # Appraising Hammer Indicator Behavior Between 2019-2021
 
 
